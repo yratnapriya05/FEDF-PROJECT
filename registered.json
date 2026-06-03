@@ -1,0 +1,65 @@
+{
+  "nextId": 3,
+  "records": [
+    {
+      "pnr": "VJ5YKX",
+      "status": "Confirmed",
+      "registeredBy": "Alex Morgan",
+      "passenger": {
+        "id": 1,
+        "name": "Test User",
+        "email": "test.user@guest.skypnr.com",
+        "phone": "—",
+        "passport": "—",
+        "tier": "Standard",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Test%20User",
+        "ssr": []
+      },
+      "flight": {
+        "number": "SK101",
+        "route": "JFK → LHR",
+        "date": "2026-06-03",
+        "seat": "—",
+        "class": "Economy"
+      },
+      "timeline": [
+        {
+          "time": "2026-06-03 07:55",
+          "event": "Passenger registered",
+          "location": "By Alex Morgan"
+        }
+      ],
+      "history": []
+    },
+    {
+      "pnr": "MEK2XG",
+      "status": "Confirmed",
+      "registeredBy": "Alex Morgan",
+      "passenger": {
+        "id": 2,
+        "name": "priya sharma",
+        "email": "y.ratnapriya05@gmail.com",
+        "phone": "7981666456",
+        "passport": "—",
+        "tier": "Standard",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=priya%20sharma",
+        "ssr": []
+      },
+      "flight": {
+        "number": "AI203",
+        "route": "HYD->DEL",
+        "date": "2026-06-03",
+        "seat": "—",
+        "class": "Economy"
+      },
+      "timeline": [
+        {
+          "time": "2026-06-03 07:57",
+          "event": "Passenger registered",
+          "location": "By Alex Morgan"
+        }
+      ],
+      "history": []
+    }
+  ]
+}
